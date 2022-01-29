@@ -45,6 +45,23 @@ Add this class to a `<img class="img-responsive">` tag
 
 : #**class="_btn btn-block_"**# - This button would take up 100% of the available width.
 
+: #**class="_btn btn-primary_"**# - The _**btn-primary**_ class it is useful for highlighting actions you want your user to take.
 
+: #_**class="btn btn-info"**_# - Bootstrap comes with several pre-defined colors for buttons. The **_btn-info_** class is used to call attention to optional actions that the user can take.
 
+> Bootstrap comes with several pre-defined colors for buttons. The _**btn-danger**_ class is the button color you'll use to notify users that the button performs a destructive action, such as deleting contents.
 
+: #_**class="btn btn-danger"**_# - It gives a red color to the button 
+
+'''
+
+    <button class="btn btn-primary btn-block"type="button">Like</button>
+    
+    <button class="btn btn-block btn-info" type="button">Info</button>
+    
+    <button class="btn btn-block btn-danger"type="button">Delete</button>
+'''
+
+> Use the Bootstrap Grid to Put Elements Side By Side
+
+Bootstrap uses a responsive 12-column grid system, which makes it easy to put elements into rows and specify each element's relative width. Most of Bootstrap's classes can be applied to a div element.
