@@ -39,6 +39,6 @@ Add this class to a img tag
 
 Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
 
-: #class="btn"
-: #class="btn btn-default"
-: #class="btn btn-block"  This button would take up 100% of the available width.
+: #class="btn"#
+: #class="btn btn-default"#
+: #class="btn btn-block"#  This button would take up 100% of the available width.
