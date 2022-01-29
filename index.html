@@ -11,16 +11,27 @@
   <body>    
     
       <div class="container-fluid"> 
-    <h2 class="red-text text-center">CatPhotoApp c</h2>
+    <h2 class="text-primary text-center">CatPhotoApp</h2>
     
-    <p>Click here for <a href="#">cat photos</a>.</p>
+    <p>Click here for>cat photos.</p>
     
-    <a href="#"><img class="smaller-image thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+    <a href="#"><img class="img-responsive thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
     <p></p>
     <p></p>
     <img class="img-responsive"src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg" alt="Three cats in a image">
-    <button class="btn btn-default btn-block"type="button">Like</button>
-    <p>Things cats love:</p>
+    <div class="row">
+      <div class="col-xs-4">
+        <button class="btn btn-primary btn-block"type="button">Like</button>
+      </div>
+      <div class="col-xs-4">
+        <button class="btn btn-block btn-info" type="button">Info</button>
+      </div>
+      <div class="col-xs-4">
+        <button class="btn btn-block btn-danger"type="button">Delete</button>
+      </div>
+
+    </div>
+    <p>Things cats <span class="text-danger">love:</span></p>
     <ul>
       <li>cat nip</li>
       <li>laser pointers</li>
@@ -45,3 +56,4 @@
   
   </body>
 </html>
+
