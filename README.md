@@ -22,7 +22,7 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" int
 
 # BootStrap-Examples
 
-BootStrap exercises for application of responsiviness 
+> BootStrap exercises for application of responsiveness 
 
 #Adding classes
 
@@ -37,7 +37,7 @@ Add this class to a img tag
 
 : #class="**_text-center_**"# - Centering elements on the page.
 
-Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
+> Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
 
 : #**_class="btn"_**#
 
