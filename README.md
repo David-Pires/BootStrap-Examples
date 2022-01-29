@@ -29,16 +29,16 @@ BootStrap exercises for application of responsiviness
 
 Starting to nest all of our HTML in a div 
 
-: #class="container-fluid"#  -  It will make all content inside of this div responsive;
+: class="**_container-fluid_**"  -  It will make all content inside of this div responsive;
 
 Add this class to a img tag
 
-: #class="img-responsive"#   - Image with the exactly the width of our phone's screen; 
+: #class="**_img-responsive_**"#   - Image with the exactly the width of our phone's screen; 
 
-: #class="text-center"# - Centering elements on the page.
+: #class="**_text-center_**"# - Centering elements on the page.
 
 Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
 
-: #class="btn"#
-: #class="btn btn-default"#
-: #class="btn btn-block"#  This button would take up 100% of the available width.
+: #**_class="btn"_**#
+: #**class="_btn btn-default_"**#
+: #**class="_btn btn-block_"**#  This button would take up 100% of the available width.
