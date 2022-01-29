@@ -27,11 +27,11 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" int
 #Adding classes
 
 
-> Starting to nest all of our HTML in a div 
+> Starting to nest all of our HTML in a `<div class="container-fluid">`
 
 : class="**_container-fluid_**"  -  > It will make all content inside of this div responsive;
 
-Add this class to a img tag
+Add this class to a `<img class="img-responsive">` tag
 
 : #class="**_img-responsive_**"# - Image with the exactly the width of our phone's screen; 
 
@@ -44,3 +44,5 @@ Add this class to a img tag
 : #**class="_btn btn-default_"**#
 
 : #**class="_btn btn-block_"**# - This button would take up 100% of the available width.
+
+
