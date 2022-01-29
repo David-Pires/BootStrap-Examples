@@ -46,3 +46,5 @@ Add this class to a `<img class="img-responsive">` tag
 : #**class="_btn btn-block_"**# - This button would take up 100% of the available width.
 
 
+
+
