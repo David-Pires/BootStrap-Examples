@@ -33,4 +33,12 @@ Starting to nest all of our HTML in a div
 
 Add this class to a img tag
 
-: #class="img-responsive"#   - Image with the exactly the width of our phone's screen;
+: #class="img-responsive"#   - Image with the exactly the width of our phone's screen; 
+
+: #class="text-center"# - Centering elements on the page.
+
+Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
+
+: #class="btn"
+: #class="btn btn-default"
+: #class="btn btn-block"  This button would take up 100% of the available width.
