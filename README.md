@@ -108,6 +108,9 @@ The row class is applied to a `<div>`, and the buttons themselves can be nested 
 
 
 
+: #**class="_btn text-primary_"**# - It makes it blue. 
+
+: #**class="_btn text-danger_"**# - It makes it red. 
 
 
 
