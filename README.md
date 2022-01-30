@@ -114,3 +114,10 @@ The row class is applied to a `<div>`, and the buttons themselves can be nested 
 
 : #**class="_col-xs-8_"**# - Utilize 8 columns of a grid break point ( BootStrap give us 12 columns to work with )
 
+> Bootstrap has a class called `well` that can create a visual sense of depth for your columns.
+
+: #**class="_well_"**# - It makes it red. 
+
+: #**class="_btn-default_"**#
+
+
